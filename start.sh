@@ -1,0 +1,1 @@
+scrapy runspider trend_repo_files_spider.py -o outputs.csv
